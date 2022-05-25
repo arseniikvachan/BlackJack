@@ -8,11 +8,12 @@ Minimalistic Java implementation of a famous game "Black Jack" in German languag
 ## Screenshots
 
 <img src="https://i.postimg.cc/Qd5VYVG4/s1BJ.png" width="500" height="400">
-<img src="https://i.postimg.cc/VsC6kd5Y/s2BJ.png" width="100" height="50">
+<img src="https://i.postimg.cc/VsC6kd5Y/s2BJ.png" width="300" height="200">
 
 ## Rules of the game
 
 http://www.hitorstand.net/strategy.php
+
 ## Installation
 
 Most common way to install is to simpy download runnable file 
