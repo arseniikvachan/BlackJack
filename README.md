@@ -10,8 +10,7 @@ A very simple Java implementation of a famous game "Black Jack" in German langua
 ## Screenshots
 
 <img src="https://i.postimg.cc/Qd5VYVG4/s1BJ.png" width="500" height="400">
-![App Screenshot](https://i.postimg.cc/VsC6kd5Y/s2BJ.png)
-
+<img src="https://i.postimg.cc/VsC6kd5Y/s2BJ.png" width="500" height="400">
 
 ## Rules of the game
 
