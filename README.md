@@ -16,9 +16,19 @@ http://www.hitorstand.net/strategy.php
 
 ## Installation
 
-Simply download runnable file for your OS.
+**For Windows**:
+1. Go to ![Releases](https://github.com/arseniikvachan/BlackJack/releases)
+2. Press "Download for Windows"
+3. In GoogleDrive download "BlackJack.exe"
+4. Run BlackJack.exe as administrator
 
-https://github.com/arseniikvachan/BlackJack/releases
+**For macOS**:
+1. Go to ![Releases](https://github.com/arseniikvachan/BlackJack/releases)
+2. Press "Download for macOS"
+3. Press "Download"
+4. Extract BlackJack.zip into Applications folder
+5. Open BlackJack folder
+6. Run bj.command
 
 ## Author
 
