@@ -1,4 +1,4 @@
-<img src="https://i.postimg.cc/s2y4fk3c/download-cards-31220.png" width="100" height="100">
+<img src="https://i.postimg.cc/s2y4fk3c/download-cards-31220.png" width="150" height="100">
 
 # BlackJack 
 
