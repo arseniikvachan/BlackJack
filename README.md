@@ -16,28 +16,8 @@ http://www.hitorstand.net/strategy.php
 
 ## Installation
 
-Most common way to install is to simpy download runnable file 
-
-Windows OS
-```bash
-  npm install my-project
-  cd my-project
-```
-
-macOS
-```bash
-  npm install my-project
-  cd my-project
-```
-
-Linux
-```bash
-  npm install my-project
-  cd my-project
-```
-
-
-
+Simply download runnable file for your OS.
+![](https://github.com/arseniikvachan/BlackJack/releases)
 
 ## Author
 
