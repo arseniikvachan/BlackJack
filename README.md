@@ -17,7 +17,7 @@ http://www.hitorstand.net/strategy.php
 ## Installation
 
 Simply download runnable file for your OS.
-![](https://github.com/arseniikvachan/BlackJack/releases)
+https://github.com/arseniikvachan/BlackJack/releases
 
 ## Author
 
