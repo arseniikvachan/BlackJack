@@ -8,7 +8,7 @@ Minimalistic Java implementation of a famous game "Black Jack" in German languag
 ## Screenshots
 
 <img src="https://i.postimg.cc/Qd5VYVG4/s1BJ.png" width="500" height="400">
-<img src="https://postimg.cc/fkMZHWxF" width="300" height="200">
+<a href='https://postimg.cc/fkMZHWxF' target='_blank'><img src='https://i.postimg.cc/fkMZHWxF/s2BJ.png' border='0' alt='s2BJ'/></a>
 
 ## Rules of the game
 
