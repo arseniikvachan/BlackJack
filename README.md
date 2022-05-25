@@ -13,8 +13,6 @@ Minimalistic Java implementation of a famous game "Black Jack" in German languag
 
 <img src="https://i.postimg.cc/VsC6kd5Y/s2BJ.png" width="300" height="200">
 
-
-
 ## Rules of the game
 
 http://www.hitorstand.net/strategy.php
