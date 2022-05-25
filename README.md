@@ -2,7 +2,7 @@
 
 # BlackJack 
 
-A very simple Java implementation of a famous game "Black Jack" in German language
+Minimalistic Java implementation of a famous game "Black Jack" in German language
 
 
 
