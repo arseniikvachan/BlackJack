@@ -19,15 +19,16 @@ http://www.hitorstand.net/strategy.php
 **For Windows**:
 1. Go to ![Releases](https://github.com/arseniikvachan/BlackJack/releases)
 2. Press "Download for Windows"
-3. In GoogleDrive download "BlackJack.exe"
-4. Run BlackJack.exe as administrator
+3. In GoogleDrive download "BlackJackWin.zip"
+4. Extract anywhere
+5. Run bj.bat 
 
 **For macOS**:
 1. Go to ![Releases](https://github.com/arseniikvachan/BlackJack/releases)
 2. Press "Download for macOS"
 3. Press "Download"
-4. Extract BlackJack.zip into Applications folder
-5. Open BlackJack folder
+4. Extract "BlackJack.zip" into Applications folder
+5. Open "BlackJack" folder
 6. Run bj.command
 7. Go to System Preferences -> Security & Privacy
 8. Press "Open Anyway"
