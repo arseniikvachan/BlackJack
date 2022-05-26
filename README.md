@@ -29,6 +29,8 @@ http://www.hitorstand.net/strategy.php
 4. Extract BlackJack.zip into Applications folder
 5. Open BlackJack folder
 6. Run bj.command
+7. Go to System Preferences -> Security & Privacy
+8. Press "Open Anyway"
 
 ## Author
 
